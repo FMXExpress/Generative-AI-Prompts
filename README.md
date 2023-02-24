@@ -7,4 +7,12 @@ The built in WebView embed loads up StableDiffusionWeb but you can use the promp
 
 ![Alt Text](/generativeaiprompts.png)
 
+Other Delphi AI clients:
+
+[Stable Diffusion Text To Image Prompts](https://github.com/FMXExpress/Stable-Diffusion-Text-To-Image-Prompts)
+
+[Dreambooth Desktop Client](https://github.com/FMXExpress/DreamBooth-Desktop-Client)
+
+[Text To Vector Desktop Client](https://github.com/FMXExpress/Text-To-Vector-Desktop-Client)
+
 Build with [Embarcadero Delphi](https://www.embarcadero.com/products/delphi/)
